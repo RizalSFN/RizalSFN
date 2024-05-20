@@ -10,7 +10,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
 ### <summary><strong>Stats</strong></summary>
 <p>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=RizalSFN&theme=transparent&locale=id&mode=weekly)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RizalSFN&theme=transparent&locale=id&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
