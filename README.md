@@ -8,6 +8,11 @@ Lifelong Learner, currently working as budagh kompeni.
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
+### <summary><strong>Stats</strong></summary>
+<p>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=RizalSFN&theme=transparent&locale=id&mode=weekly)](https://git.io/streak-stats)
+</p>
+
 ### <summary><strong>Yosh!</strong></summary>
 <p>
     - :keyboard: I’m currently learning Data Analytics. </br>
