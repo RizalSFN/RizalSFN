@@ -25,23 +25,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 </a>   
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on   
-  
-
-- 🌱 I’m currently learning Laravel and Livewire  
-  
-
-- ❓ Ask me about anything related to Frontend or Backend with PHP languages
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-<br/>  
-
 ## My Skill Set  
 
 ### • Frontend  
